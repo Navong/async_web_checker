@@ -14,26 +14,6 @@ For example:
 
 ---
 
-## How to Use This Script
-
-### Step 1: Install Python
-Make sure you have Python installed on your computer. You can download it from [here](https://www.python.org/downloads/).
-
-### Step 2: Install Dependencies
-You need to install a library called `aiohttp`. Open your terminal or command prompt and run:
-```bash
-pip install aiohttp
-```
-
-### Step 3: Download the Script
-Download the script (`main.py`) from this repository or copy the code below into a new file named `main.py`.
-
-### Step 4: Run the Script
-In your terminal or command prompt, navigate to the folder where the script is saved and run:
-```bash
-python main.py
-```
-
 You should see output like this:
 ```
 https://www.example.com : 200
